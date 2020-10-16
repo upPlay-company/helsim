@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352208497654",
+    "firebase_url": "https://helsim-70eef.firebaseio.com",
+    "project_id": "helsim-70eef",
+    "storage_bucket": "helsim-70eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352208497654:android:37b10fd9bdec0d17ce75d7",
+        "android_client_info": {
+          "package_name": "com.helsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352208497654-5i2pau702vc6bm0jf7r0uml7j4akem5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helsim",
+            "certificate_hash": "20b43b9801b0dca91f73ddfb2c1b976cc20dd9c9"
+          }
+        },
+        {
+          "client_id": "352208497654-na7q1kmaog11ddna484fq0bjh38n1l69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZoD-4hJFJpk3E48XOzts-oD_aUwz6OeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352208497654-na7q1kmaog11ddna484fq0bjh38n1l69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
